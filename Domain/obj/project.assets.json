@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Давид\\source\\repos\\DChalyan.SoftwareDevelop\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Давид\\Source\\Repos\\daviderror\\SoftwareDevelop\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\Давид\\source\\repos\\DChalyan.SoftwareDevelop\\Domain\\Domain.csproj",
+      "projectPath": "C:\\Users\\Давид\\Source\\Repos\\daviderror\\SoftwareDevelop\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\Давид\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Давид\\source\\repos\\DChalyan.SoftwareDevelop\\Domain\\obj\\",
+      "outputPath": "C:\\Users\\Давид\\Source\\Repos\\daviderror\\SoftwareDevelop\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

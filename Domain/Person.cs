@@ -2,7 +2,7 @@
 
 namespace DChalyanApp1.SoftwareDevelop.Domain
 {
-    public class Class1
+    public class Person
     {
 
     }

@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Domain/1.0.0": {
+      "type": "project",
+      "path": "../Domain/Domain.csproj",
+      "msbuildProject": "../Domain/Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Давид\\.nuget\\packages\\": {},
@@ -15,11 +34,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Давид\\source\\repos\\DChalyan.SoftwareDevelop\\Persistence\\Persistence.csproj",
-      "projectName": "DChalyanApp1.SoftwareDevelop.Persistence",
-      "projectPath": "C:\\Users\\Давид\\source\\repos\\DChalyan.SoftwareDevelop\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\Давид\\Source\\Repos\\daviderror\\SoftwareDevelop\\Persistence\\Persistence.csproj",
+      "projectName": "Persistence",
+      "projectPath": "C:\\Users\\Давид\\Source\\Repos\\daviderror\\SoftwareDevelop\\Persistence\\Persistence.csproj",
       "packagesPath": "C:\\Users\\Давид\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Давид\\source\\repos\\DChalyan.SoftwareDevelop\\Persistence\\obj\\",
+      "outputPath": "C:\\Users\\Давид\\Source\\Repos\\daviderror\\SoftwareDevelop\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -41,7 +60,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Давид\\Source\\Repos\\daviderror\\SoftwareDevelop\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Давид\\Source\\Repos\\daviderror\\SoftwareDevelop\\Domain\\Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

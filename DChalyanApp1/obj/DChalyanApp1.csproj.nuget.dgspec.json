@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Давид\\source\\repos\\DChalyan.SoftwareDevelop\\DChalyanApp1\\DChalyanApp1.csproj": {}
+    "C:\\Users\\Давид\\Source\\Repos\\daviderror\\SoftwareDevelop\\DChalyanApp1\\DChalyanApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Давид\\source\\repos\\DChalyan.SoftwareDevelop\\DChalyanApp1\\DChalyanApp1.csproj": {
+    "C:\\Users\\Давид\\Source\\Repos\\daviderror\\SoftwareDevelop\\DChalyanApp1\\DChalyanApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Давид\\source\\repos\\DChalyan.SoftwareDevelop\\DChalyanApp1\\DChalyanApp1.csproj",
+        "projectUniqueName": "C:\\Users\\Давид\\Source\\Repos\\daviderror\\SoftwareDevelop\\DChalyanApp1\\DChalyanApp1.csproj",
         "projectName": "DChalyan.SoftwareDevelopConsole",
-        "projectPath": "C:\\Users\\Давид\\source\\repos\\DChalyan.SoftwareDevelop\\DChalyanApp1\\DChalyanApp1.csproj",
+        "projectPath": "C:\\Users\\Давид\\Source\\Repos\\daviderror\\SoftwareDevelop\\DChalyanApp1\\DChalyanApp1.csproj",
         "packagesPath": "C:\\Users\\Давид\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Давид\\source\\repos\\DChalyan.SoftwareDevelop\\DChalyanApp1\\obj\\",
+        "outputPath": "C:\\Users\\Давид\\Source\\Repos\\daviderror\\SoftwareDevelop\\DChalyanApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
